@@ -33,4 +33,4 @@ The prototype is simple to understand, download it and hit index.html and just c
 a language, hit the key, then the baffle and mimic what the app returns to you. You
 will learn the basis. But no grammar. Enjoy it.
 
-Unfortunately only English is available now due to ResponsiveVoice restrictions on its free version
+
